@@ -1,0 +1,45 @@
+# 🔹 Entorno virtual
+venv/
+env/
+.venv/
+
+# 🔹 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🔹 Jupyter Notebook
+.ipynb_checkpoints/
+
+# 🔹 Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# 🔹 Configuración de editores
+.vscode/
+.idea/
+
+# 🔹 Logs
+*.log
+
+# 🔹 Archivos de entorno
+.env
+
+# 🔹 Archivos temporales
+*.tmp
+*.temp
+
+# 🔹 Datos pesados (opcional)
+data/
+datasets/
+*.csv
+
+# 🔹 Modelos (si usas ML)
+*.h5
+*.pkl
+*.joblib
+
+# 🔹 TensorFlow / entrenamiento
+logs/
+checkpoints/
