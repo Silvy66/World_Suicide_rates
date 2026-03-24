@@ -2,6 +2,11 @@
 
 Proyecto de análisis de tasas de suicidio a nivel mundial.
 
+--
+
+## VIDEO
+https://youtu.be/-nyiAcDk23U
+
 ---
 
 ## Requisitos
