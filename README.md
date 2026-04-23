@@ -1,53 +1,26 @@
-# World Suicide Rates Analysis
+# Proyecto: Análisis de Churn Bancario
 
-Proyecto de análisis de tasas de suicidio a nivel mundial.
+Este repositorio contiene el proyecto final para la materia de **Análisis de Requisitos**.
 
---
-
-## VIDEO
-https://youtu.be/-nyiAcDk23U
+El propósito del proyecto es aplicar una metodología de Inteligencia de Negocios (BI) para investigar el fenómeno de abandono de clientes (Churn) en el sector bancario, abarcando desde la concepción del problema hasta el análisis exploratorio, el procesamiento de datos (ETL), la formulación y validación de hipótesis, y la construcción final de dashboards en Power BI/Tableau.
 
 ---
 
-## Requisitos
+## Integrantes del Equipo
 
-- Python 3.11
-- pip
+- Diego Alejandro Rodriguez Tamayo
+- Juan David Álvarez
+- Silvana Monsalve Ospina
+- Simón Alejandro Vanegas
 
 ---
 
-## Instalación
+## Entregas del Proyecto
 
-1. Clonar el repositorio:
+El desarrollo se ha estructurado en fases de entrega. Puedes acceder a los detalles y archivos de cada una en los siguientes enlaces:
 
-```bash
-git clone https://github.com/Silvy66/World_Suicide_rates
+### 📂 [Entrega 1: Definición y Diseño](./Entrega%201)
+*Incluye la delimitación del problema, objetivos, arquitectura inicial y mockups.*
 
-cd World_Suicide_rates
-```
-
-Crear entorno virtual:
-```bash
-py -3.11 -m venv venv
-```
-
-Activar entorno virtual:
-```bash
-source venv/Scripts/activate
-```
-
-Instalar dependencias:
-```bash
-pip install -r requirements.txt
-```
-
-Ejecutar el notebook del proyecto (.ipynb) dentro del entorno virtual.
-
-📦 Librerías principales
-pandas
-numpy
-matplotlib
-seaborn
-scipy
-scikit-learn
-tensorflow
+### 📂 [Entrega 2: Preparación de Datos y ETL (Fase 3)](./Entrega%202)
+*Contiene el dataset original, el proceso de limpieza y transformación en Python (Jupyter Notebook), las variables derivadas y el dataset final exportado y listo para pruebas estadísticas y visualización.*
