@@ -19,8 +19,8 @@ El propósito del proyecto es aplicar una metodología de Inteligencia de Negoci
 
 El desarrollo se ha estructurado en fases de entrega. Puedes acceder a los detalles y archivos de cada una en los siguientes enlaces:
 
-### 📂 [Entrega 1: Definición y Diseño](./Entrega%201)
-*Incluye la delimitación del problema, objetivos, arquitectura inicial y mockups.*
+### 📂 [Entrega 1: Suicide Dataset](./Entrega%201)
+*Limpieza de datos y ETL (Tasas de suicidio).*
 
-### 📂 [Entrega 2: Preparación de Datos y ETL (Fase 3)](./Entrega%202)
-*Contiene el dataset original, el proceso de limpieza y transformación en Python (Jupyter Notebook), las variables derivadas y el dataset final exportado y listo para pruebas estadísticas y visualización.*
+### 📂 [Entrega 2: Churn modelling](./Entrega%202)
+*Análisis y procesamiento de datos bancarios.*
